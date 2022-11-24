@@ -8,6 +8,6 @@ package fideburger;
  *
  * @author Marcelo
  */
-public class usuario {
+public class Usuario {
     
 }
