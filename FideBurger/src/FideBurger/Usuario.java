@@ -1,4 +1,4 @@
-package fideburger;
+package FideBurger;
 
 public class Usuario {
 
